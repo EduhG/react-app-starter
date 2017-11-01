@@ -4,6 +4,7 @@
 [![Build Status](https://ci.hustlazkonnect.com/buildStatus/icon?job=Hustlaz-Connect)](https://ci.hustlazkonnect.com/job/Hustlaz-Connect/)
 
 ![Build Status](https://ci.hustlazkonnect.com/job/Hustlaz-Connect/badge/icon)
+![alt text](https://ci.hustlazkonnect.com/buildStatus/icon?job=Hustlaz-Connect)
 
 https://ci.hustlazkonnect.com/buildStatus/icon?job=Hustlaz-Connect
 
